@@ -1,16 +1,32 @@
-### Hi there 👋
+### Hello! :crescent_moon:
 
-<!--
-**Scruph/scruph** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br>
+:ghost: Jaine Scruph
+<br>
+:space_invader: Front-end developer
+<br>
+:alien: 18y
+<br>
+:thought_balloon: Learning CSS, React and TypeScript
 
-Here are some ideas to get you started:
+<div>
+  <br />
+  <a href="https://www.instagram.com/scruph.js/" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"
+      target="_blank">
+  </a>
+  <a href="https://www.linkedin.com/in/scruph/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"
+      target="_blank">
+  </a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <br />
+  <br />
+  <img alt="git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+  <br />
+
+  <br />
+  <img src="https://img.shields.io/badge/Made%20for-VSCode-1f425f.svg">
+  <br />
+
+</div>
