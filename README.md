@@ -7,7 +7,7 @@
 <br>
 :alien: 18y
 <br>
-:thought_balloon: Learning CSS, React and TypeScript
+:thought_balloon: Learning React, Next and TypeScript
 
 <div>
   <br />
