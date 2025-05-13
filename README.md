@@ -1,12 +1,11 @@
 ### Hello! :crescent_moon:
 
 <br>
-:ghost: Jaine Scruph
+:ghost: Jaine Scruph | 21 anos
 <br>
 :space_invader: Front-end developer
 <br>
-:alien: 21y
-<br>
+
 <div>
   <br />
   <a href="https://www.instagram.com/scruph.js/" target="_blank">
