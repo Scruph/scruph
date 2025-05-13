@@ -5,10 +5,8 @@
 <br>
 :space_invader: Front-end developer
 <br>
-:alien: 20y
+:alien: 21y
 <br>
-:thought_balloon: Learning React, Next and TypeScript
-
 <div>
   <br />
   <a href="https://www.instagram.com/scruph.js/" target="_blank">
